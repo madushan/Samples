@@ -12,9 +12,9 @@ namespace UnitTestingApp.Controllers
         IPersonRepository personRepository;
         public PersonController(): this(new PersonRepository()) { }
 
-        public PersonController(IPersonRepository personRepository)
+        public PersonController(IPersonRepository _personRepository)
         {
-            personRepository = personRepository;
+            personRepository = _personRepository;
         }
 
         // GET: Person
