@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>netcoreapp2.0;net45;net46</TargetFrameworks>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(TargetFramework)'=='net40'">
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(TargetFramework)'=='net45'">
+    <Reference Include="System.Net" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\bin\Debug\net46\MultiFrameworkConsole.exe
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\bin\Debug\net46\MultiFrameworkConsole.pdb
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\net46\MultiFrameworkConsole.csprojResolveAssemblyReference.cache
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\net46\MultiFrameworkConsole.csproj.CoreCompileInputs.cache
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\net46\MultiFrameworkConsole.AssemblyInfoInputs.cache
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\net46\MultiFrameworkConsole.AssemblyInfo.cs
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\net46\MultiFrameworkConsole.exe
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\net46\MultiFrameworkConsole.pdb

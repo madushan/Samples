@@ -1,0 +1,11 @@
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\bin\Debug\netcoreapp2.0\MyFirstCoreApp.deps.json
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\bin\Debug\netcoreapp2.0\MyFirstCoreApp.runtimeconfig.json
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\bin\Debug\netcoreapp2.0\MyFirstCoreApp.runtimeconfig.dev.json
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\bin\Debug\netcoreapp2.0\MyFirstCoreApp.dll
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\bin\Debug\netcoreapp2.0\MyFirstCoreApp.pdb
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\obj\Debug\netcoreapp2.0\MyFirstCoreApp.csprojResolveAssemblyReference.cache
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\obj\Debug\netcoreapp2.0\MyFirstCoreApp.csproj.CoreCompileInputs.cache
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\obj\Debug\netcoreapp2.0\MyFirstCoreApp.AssemblyInfoInputs.cache
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\obj\Debug\netcoreapp2.0\MyFirstCoreApp.AssemblyInfo.cs
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\obj\Debug\netcoreapp2.0\MyFirstCoreApp.dll
+D:\Akila\Samples\MyFirstCoreApp\MyFirstCoreApp\obj\Debug\netcoreapp2.0\MyFirstCoreApp.pdb

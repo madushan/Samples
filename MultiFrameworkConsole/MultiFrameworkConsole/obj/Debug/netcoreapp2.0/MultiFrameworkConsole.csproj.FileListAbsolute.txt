@@ -1,0 +1,11 @@
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\bin\Debug\netcoreapp2.0\MultiFrameworkConsole.deps.json
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\bin\Debug\netcoreapp2.0\MultiFrameworkConsole.runtimeconfig.json
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\bin\Debug\netcoreapp2.0\MultiFrameworkConsole.runtimeconfig.dev.json
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\bin\Debug\netcoreapp2.0\MultiFrameworkConsole.dll
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\bin\Debug\netcoreapp2.0\MultiFrameworkConsole.pdb
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\netcoreapp2.0\MultiFrameworkConsole.csprojResolveAssemblyReference.cache
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\netcoreapp2.0\MultiFrameworkConsole.csproj.CoreCompileInputs.cache
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\netcoreapp2.0\MultiFrameworkConsole.AssemblyInfoInputs.cache
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\netcoreapp2.0\MultiFrameworkConsole.AssemblyInfo.cs
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\netcoreapp2.0\MultiFrameworkConsole.dll
+D:\Akila\Samples\MultiFrameworkConsole\MultiFrameworkConsole\obj\Debug\netcoreapp2.0\MultiFrameworkConsole.pdb
