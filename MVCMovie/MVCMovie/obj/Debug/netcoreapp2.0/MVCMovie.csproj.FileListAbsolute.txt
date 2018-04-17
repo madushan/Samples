@@ -1,0 +1,11 @@
+D:\Akila\Samples\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.deps.json
+D:\Akila\Samples\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.runtimeconfig.json
+D:\Akila\Samples\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.runtimeconfig.dev.json
+D:\Akila\Samples\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.dll
+D:\Akila\Samples\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.csprojResolveAssemblyReference.cache
+D:\Akila\Samples\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.csproj.CoreCompileInputs.cache
+D:\Akila\Samples\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.AssemblyInfoInputs.cache
+D:\Akila\Samples\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.AssemblyInfo.cs
+D:\Akila\Samples\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.pdb
+D:\Akila\Samples\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.dll
+D:\Akila\Samples\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.pdb

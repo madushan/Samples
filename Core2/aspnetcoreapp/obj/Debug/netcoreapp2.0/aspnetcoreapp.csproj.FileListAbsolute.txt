@@ -1,0 +1,11 @@
+D:\Akila\Samples\Core2\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.deps.json
+D:\Akila\Samples\Core2\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.json
+D:\Akila\Samples\Core2\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.dev.json
+D:\Akila\Samples\Core2\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.dll
+D:\Akila\Samples\Core2\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.pdb
+D:\Akila\Samples\Core2\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+D:\Akila\Samples\Core2\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfoInputs.cache
+D:\Akila\Samples\Core2\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfo.cs
+D:\Akila\Samples\Core2\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.dll
+D:\Akila\Samples\Core2\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.pdb
+D:\Akila\Samples\Core2\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.csprojResolveAssemblyReference.cache
