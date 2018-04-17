@@ -1,0 +1,11 @@
+D:\Akila\Samples\DP\DP\bin\Debug\netcoreapp2.0\DP.deps.json
+D:\Akila\Samples\DP\DP\bin\Debug\netcoreapp2.0\DP.runtimeconfig.json
+D:\Akila\Samples\DP\DP\bin\Debug\netcoreapp2.0\DP.runtimeconfig.dev.json
+D:\Akila\Samples\DP\DP\bin\Debug\netcoreapp2.0\DP.dll
+D:\Akila\Samples\DP\DP\bin\Debug\netcoreapp2.0\DP.pdb
+D:\Akila\Samples\DP\DP\obj\Debug\netcoreapp2.0\DP.csprojResolveAssemblyReference.cache
+D:\Akila\Samples\DP\DP\obj\Debug\netcoreapp2.0\DP.csproj.CoreCompileInputs.cache
+D:\Akila\Samples\DP\DP\obj\Debug\netcoreapp2.0\DP.AssemblyInfoInputs.cache
+D:\Akila\Samples\DP\DP\obj\Debug\netcoreapp2.0\DP.AssemblyInfo.cs
+D:\Akila\Samples\DP\DP\obj\Debug\netcoreapp2.0\DP.dll
+D:\Akila\Samples\DP\DP\obj\Debug\netcoreapp2.0\DP.pdb

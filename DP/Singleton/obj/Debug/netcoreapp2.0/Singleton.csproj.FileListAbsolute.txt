@@ -1,0 +1,11 @@
+D:\Akila\Samples\DP\Singleton\bin\Debug\netcoreapp2.0\Singleton.deps.json
+D:\Akila\Samples\DP\Singleton\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.json
+D:\Akila\Samples\DP\Singleton\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.dev.json
+D:\Akila\Samples\DP\Singleton\bin\Debug\netcoreapp2.0\Singleton.dll
+D:\Akila\Samples\DP\Singleton\bin\Debug\netcoreapp2.0\Singleton.pdb
+D:\Akila\Samples\DP\Singleton\obj\Debug\netcoreapp2.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Akila\Samples\DP\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfoInputs.cache
+D:\Akila\Samples\DP\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfo.cs
+D:\Akila\Samples\DP\Singleton\obj\Debug\netcoreapp2.0\Singleton.dll
+D:\Akila\Samples\DP\Singleton\obj\Debug\netcoreapp2.0\Singleton.pdb
+D:\Akila\Samples\DP\Singleton\obj\Debug\netcoreapp2.0\Singleton.csprojResolveAssemblyReference.cache
